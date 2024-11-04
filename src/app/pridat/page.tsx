@@ -3,7 +3,7 @@
 import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 
-export const metadata = { title: "Pridanie prispevku | ZoškaSnap" };
+export const metadata = { title: "Pridanie prispevku | Projekt" };
 
 export default function SendPost() {
   
